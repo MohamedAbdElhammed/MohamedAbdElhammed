@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
-  
   <h1>Hi, I'm Mohamed Abdelhamid 👋</h1>
   <h3>A Passionate Full-Stack Developer from Egypt 🇪🇬</h3>
 </div>
