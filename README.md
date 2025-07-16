@@ -60,7 +60,7 @@
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-abd-elhamed-ba5600341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-abd-elhamed-ba5600341)
 - 📧 Email: m7mdmmom@gmail.com 
 - 💬 WhatsApp: 01023076118
 
